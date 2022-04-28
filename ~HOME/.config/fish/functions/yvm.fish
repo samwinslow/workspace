@@ -1,0 +1,1 @@
+/opt/homebrew/Cellar/yvm/4.1.4/yvm.fish

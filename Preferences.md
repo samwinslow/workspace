@@ -32,3 +32,7 @@ System Preferences
 - Spotify
 - Note-taking apps
 - System Preferences
+
+# System Defaults
+
+Disable "Application quit unexpectedly" (report, reopen) dialogs: `defaults write com.apple.CrashReporter DialogType none`
